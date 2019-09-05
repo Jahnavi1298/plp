@@ -1,0 +1,97 @@
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class=" collapse navbar-collapse" id="navbarNav">
+                <nav class="navbar navbar-inverse">
+                        <div class="container-fluid">
+                                <div class="navbar-header">
+                                        <a class="navbar-brand" href="#">CapStore</a>
+                                </div>
+                                <div class="nav navbar-nav navbar-right">
+<form>
+        <div></div>
+                                        <ul class="navbar-nav">
+                                                <li class="nav-centered">
+                                                        <input type="text" class="form-control" placeholder="Search" name="search">
+                                                </li>
+                                                <li>
+                                                        <a href=""> <button type="button" class="btn btn-danger">Sign Up </button></a>
+                                                </li>
+                                                <li>
+                                                        <a href=""> <button type="button" class="btn btn-danger">LogIn        </button></a>
+                                                </li>
+                                        </ul>
+                                </form>
+                                </div>
+                        </div>
+                </nav>
+        </div>
+</nav>
+
+
+<div>
+        <br>
+        <img src="./assets/capstore.jpg"  alt="Shopping image">
+        <br>
+</div>
+
+<!-- 
+<div  class=" navbar navbar-expand-sm bg-primary navbar-dark"> -->
+<footer class="page-footer font-small teal pt-4">
+
+        <!-- Footer Text -->
+        <div class="container-fluid text-center text-md-left">
+
+                <!-- Grid row -->
+                <div class="row">
+
+                        <!-- Grid column -->
+                        <div class="col-md-6 mt-md-0 mt-3">
+
+                                <!-- Content -->
+                                <h5 class="text-uppercase font-weight-bold"> Delivery Information</h5>
+                                <a href="">Help</a><br>
+                                <a href="">Privacy Policy</a><br>
+
+                                <a href="">Terms & Conditions</a><br>
+
+                                <a href="">Returns Policy</a>
+
+                        </div>
+                        <!-- Grid column -->
+
+                        <hr class="clearfix w-100 d-md-none pb-3">
+
+                        <!-- Grid column -->
+                        <div class="col-md-6 mb-md-0 mb-3">
+
+                                <!-- Content -->
+                                <h5 class="text-uppercase font-weight-bold">Customer Services</h5>
+                                <a href=""> Contact Us</a><br>
+                                <a href="">Delivery Information</a><br>
+                                <a href=""> Help</a>
+                                <!-- 
+                                        <div class="col-md-6 mb-md-0 mb-3">
+                                                <h5 class="text-uppercase font-weight-bold">About CapStore</h5>
+                                                <a href="">Our Story</a>
+
+                                        </div> -->
+                        </div>
+                        <!-- Grid column -->
+
+                </div>
+                <!-- Grid row -->
+
+        </div>
+        <!-- Footer Text -->
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2018 Copyright:
+                <a href="https://capgemini.com"> Capgemini.com</a>
+        </div>
+        <!-- Copyright -->
+
+</footer>
+<!-- </div> -->
